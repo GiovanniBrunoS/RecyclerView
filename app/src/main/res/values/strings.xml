@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="marca_do_produto">Marca do Produto</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="concluir">Concluir</string>
+</resources>
